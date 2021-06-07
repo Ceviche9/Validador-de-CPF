@@ -40,7 +40,7 @@
 ```
 
 
-# Code.
+# Code & Notes.
 
 ``` js
 const input = document.querySelector('.input');

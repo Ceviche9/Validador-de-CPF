@@ -12,6 +12,34 @@
 
 ![Big Number](https://user-images.githubusercontent.com/83431609/120951037-5ab9bb80-c71e-11eb-89e7-fe449fa7f8b4.png)
 
+# HTML CODE.
+
+``` html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Valida</title>
+    <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+    <section class="Caixa">
+        <h1>CPF</h1>
+        <p>Coloque o número do cpf abaixo para verificar se é válido:</p>
+        <input type="text" class="input" placeholder="XXX.XXX.XXX-XX" >
+        <button class="btn">enviar</button>
+        <p class="resp"></p>
+    </section>
+
+    <script src="./cpfValidação.js"></script>
+</body>
+</html>
+
+
+```
+
+
 # Code.
 
 ``` js

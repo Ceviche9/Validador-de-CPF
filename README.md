@@ -12,7 +12,7 @@
 
 ![Big Number](https://user-images.githubusercontent.com/83431609/120951037-5ab9bb80-c71e-11eb-89e7-fe449fa7f8b4.png)
 
-# HTML Code.
+# HTML.
 
 ``` html
 <!DOCTYPE html>
